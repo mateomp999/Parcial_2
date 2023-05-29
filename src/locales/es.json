@@ -1,0 +1,13 @@
+{
+    
+    "User":"Nombre de usuario",
+    "Password":"Contraseña",
+    "Button":"Boton",
+    "ISBN":"ISBN",
+    "Author":"Autor",
+    "Publisher":"Publicador",
+    "Genre":"Genero",
+    "Year":"Año",
+    "Price":"Precio",
+    "Summary":"Resumen"
+}

@@ -1,0 +1,13 @@
+{
+   
+    "User":"Username",
+    "Password":"Password",
+    "Button":"Button",
+    "ISBN":"ISBN",
+    "Author":"Author",
+    "Publisher":"Publisher",
+    "Genre":"Genre",
+    "Year":"Year",
+    "Price":"Price",
+    "Summary":"Summary"
+}
